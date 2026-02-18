@@ -1,0 +1,98 @@
+[
+  {
+    "id": "city_van",
+    "name": "Van",
+    "background": "assets/images/maps/van.png",
+    "levels": [
+      "reng", "hejmar", "shekil", "malbat", "feyke", "heywanen_mal"
+    ],
+    "nodeAnchors": [
+      {"x": 0.507813, "y": 0.807292},
+      {"x": 0.791016, "y": 0.667318},
+      {"x": 0.292969, "y": 0.566406},
+      {"x": 0.795898, "y": 0.481771},
+      {"x": 0.292969, "y": 0.371094},
+      {"x": 0.761719, "y": 0.332031}
+    ]
+  },
+  {
+    "id": "city_mardin",
+    "name": "Mardin",
+    "background": "assets/images/maps/mardin.png",
+    "levels": [
+      "laş", "cilubarg", "xwarin", "mal", "sebze", "rojane"
+    ],
+    "nodeAnchors": [
+      {"x": 0.507813, "y": 0.807292},
+      {"x": 0.791016, "y": 0.667318},
+      {"x": 0.292969, "y": 0.566406},
+      {"x": 0.795898, "y": 0.462240},
+      {"x": 0.283203, "y": 0.351563},
+      {"x": 0.761719, "y": 0.315755}
+    ]
+  },
+  {
+    "id": "city_amed",
+    "name": "Amed",
+    "background": "assets/images/maps/amed.png",
+    "levels": [
+      "xweza", "hewa", "heywanen_kovî", "kêzik", "veguhestin", "cih"
+    ],
+    "nodeAnchors": [
+      {"x": 0.488281, "y": 0.804036},
+      {"x": 0.800781, "y": 0.664063},
+      {"x": 0.283203, "y": 0.566406},
+      {"x": 0.795898, "y": 0.481771},
+      {"x": 0.292969, "y": 0.371094},
+      {"x": 0.751953, "y": 0.325521}
+    ]
+  },
+  {
+    "id": "city_bingol",
+    "name": "Bingöl",
+    "background": "assets/images/maps/bingol.png",
+    "levels": [
+      "dibistan", "polê", "lêker", "hobî", "werzîş", "dem"
+    ],
+    "nodeAnchors": [
+      {"x": 0.488281, "y": 0.761719},
+      {"x": 0.791016, "y": 0.631510},
+      {"x": 0.292969, "y": 0.527344},
+      {"x": 0.795898, "y": 0.442708},
+      {"x": 0.292969, "y": 0.325521},
+      {"x": 0.761719, "y": 0.292969}
+    ]
+  },
+  {
+    "id": "city_bitlis",
+    "name": "Bitlis",
+    "background": "assets/images/maps/bitlis.png",
+    "levels": [
+      "kar", "avahî", "bazarî", "saxlem", "nexşe", "teknolojî"
+    ],
+    "nodeAnchors": [
+      {"x": 0.498047, "y": 0.839844},
+      {"x": 0.791016, "y": 0.709635},
+      {"x": 0.292969, "y": 0.605469},
+      {"x": 0.795898, "y": 0.501302},
+      {"x": 0.292969, "y": 0.410156},
+      {"x": 0.761719, "y": 0.351563}
+    ]
+  },
+  {
+    "id": "city_agri",
+    "name": "Agirî",
+    "background": "assets/images/maps/agri.png",
+    "levels": [
+      "silav", "hest", "cînavk", "çanda_kurdî", "dijber", "rojane"
+    ],
+    "nodeAnchors": [
+      {"x": 0.488281, "y": 0.804036},
+      {"x": 0.800781, "y": 0.664063},
+      {"x": 0.283203, "y": 0.566406},
+      {"x": 0.795898, "y": 0.462240},
+      {"x": 0.292969, "y": 0.371094},
+      {"x": 0.751953, "y": 0.312500}
+    ]
+  }
+]

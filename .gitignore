@@ -44,6 +44,12 @@ app.*.map.json
 /android/app/profile
 /android/app/release
 
+# Local debug artifacts
+emulator_*.png
+emulator_*.jpg
+apk_van.png
+web_release.log
+
 emulator_*.png
 emulator_*.jpg
 web_release.log

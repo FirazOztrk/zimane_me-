@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(wc:*)",
+      "Bash(ls -la \"C:\\\\Users\\\\PC0\\\\Desktop\\\\zimane_me\\\\zimane_me\\\\assets\\\\images\\\\maps\"\" 2>/dev/null || ls -la \"/c/Users/PC0/Desktop/zimane_me/zimane_me/assets/images/maps/\" 2>/dev/null || dir \"C:UsersPC0Desktopzimane_mezimane_meassetsimagesmaps \")",
+      "Bash(flutter analyze:*)",
+      "Bash(flutter build:*)",
+      "Bash(powershell -Command:*)",
+      "Bash(powershell -File:*)",
+      "Bash(dir:*)",
+      "Bash(flutter pub get:*)"
+    ]
+  }
+}

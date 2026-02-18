@@ -1,0 +1,528 @@
+[
+  {
+    "id": "reng",
+    "title": "Reng",
+    "icon": "assets/icons/starterpack/icon_colors_palette.png",
+    "narReward": 5,
+    "words": [
+      {"id": "red", "kurdish": "Sor", "image": "assets/icons/fruits/strawberry.png", "audio": ""},
+      {"id": "blue", "kurdish": "Şîn", "image": "assets/icons/weather/rain.png", "audio": ""},
+      {"id": "yellow", "kurdish": "Zer", "image": "assets/icons/fruits/banana.png", "audio": ""},
+      {"id": "green", "kurdish": "Kesk", "image": "assets/icons/nature/tree.png", "audio": ""},
+      {"id": "white", "kurdish": "Spî", "image": "assets/icons/weather/snow.png", "audio": ""},
+      {"id": "black", "kurdish": "Reş", "image": "assets/icons/petfarmanimals/cat.png", "audio": ""}
+    ]
+  },
+  {
+    "id": "hejmar",
+    "title": "Hejmar",
+    "icon": "assets/icons/starterpack/icon_numbers_cubes.png",
+    "narReward": 5,
+    "words": [
+      {"id": "one", "kurdish": "Yek", "image": "assets/icons/fruits/apple.png", "audio": ""},
+      {"id": "two", "kurdish": "Du", "image": "assets/icons/fruits/cherry.png", "audio": ""},
+      {"id": "three", "kurdish": "Sê", "image": "assets/icons/fruits/orange.png", "audio": ""},
+      {"id": "four", "kurdish": "Çar", "image": "assets/icons/petfarmanimals/cat.png", "audio": ""},
+      {"id": "five", "kurdish": "Pênc", "image": "assets/icons/bodyParts/hand.png", "audio": ""},
+      {"id": "ten", "kurdish": "Deh", "image": "assets/icons/bodyParts/finger.png", "audio": ""}
+    ]
+  },
+  {
+    "id": "shekil",
+    "title": "Şekil",
+    "icon": "assets/icons/starterpack/icon_shapes_geometric.png",
+    "narReward": 5,
+    "words": [
+      {"id": "circle", "kurdish": "Gilover", "image": "assets/icons/shapes/icon_circle.png", "audio": ""},
+      {"id": "square", "kurdish": "Çargoşe", "image": "assets/icons/shapes/icon_square.png", "audio": ""},
+      {"id": "triangle", "kurdish": "Sêgoşe", "image": "assets/icons/shapes/icon_triangle.png", "audio": ""},
+      {"id": "rectangle", "kurdish": "Rêzik", "image": "assets/icons/shapes/icon_rectangle.png", "audio": ""},
+      {"id": "star", "kurdish": "Stêr", "image": "assets/icons/shapes/icon_star.png", "audio": ""}
+    ]
+  },
+  {
+    "id": "malbat",
+    "title": "Malbat",
+    "icon": "assets/icons/aboutMeAndLife/icon_family.png",
+    "narReward": 5,
+    "words": [
+      {"id": "mother", "kurdish": "Dayik", "image": "assets/icons/familymembers/mother.png", "audio": ""},
+      {"id": "father", "kurdish": "Bav", "image": "assets/icons/familymembers/father.png", "audio": ""},
+      {"id": "brother", "kurdish": "Bira", "image": "assets/icons/familymembers/brother.png", "audio": ""},
+      {"id": "sister", "kurdish": "Xwişk", "image": "assets/icons/familymembers/sister.png", "audio": ""},
+      {"id": "grandmother", "kurdish": "Dapîr", "image": "assets/icons/familymembers/grandmother.png", "audio": ""},
+      {"id": "grandfather", "kurdish": "Bapîr", "image": "assets/icons/familymembers/grandfather.png", "audio": ""},
+      {"id": "baby_boy", "kurdish": "Zaroka Kur", "image": "assets/icons/familymembers/baby_boy.png", "audio": ""},
+      {"id": "baby_girl", "kurdish": "Zaroka Keç", "image": "assets/icons/familymembers/baby_girl.png", "audio": ""}
+    ]
+  },
+  {
+    "id": "feyke",
+    "title": "Fêkî",
+    "icon": "assets/icons/homeAndSurroundings/icon_fruits.png",
+    "narReward": 5,
+    "words": [
+      {"id": "apple", "kurdish": "Sêv", "image": "assets/icons/fruits/apple.png", "audio": ""},
+      {"id": "banana", "kurdish": "Mûz", "image": "assets/icons/fruits/banana.png", "audio": ""},
+      {"id": "watermelon", "kurdish": "Zebeş", "image": "assets/icons/fruits/watermelon.png", "audio": ""},
+      {"id": "grape", "kurdish": "Tirî", "image": "assets/icons/fruits/grape.png", "audio": ""},
+      {"id": "strawberry", "kurdish": "Tûfireng", "image": "assets/icons/fruits/strawberry.png", "audio": ""},
+      {"id": "orange", "kurdish": "Pirteqal", "image": "assets/icons/fruits/orange.png", "audio": ""},
+      {"id": "pomegranate", "kurdish": "Hinar", "image": "assets/icons/fruits/pomegranate.png", "audio": ""},
+      {"id": "cherry", "kurdish": "Gêlaz", "image": "assets/icons/fruits/cherry.png", "audio": ""}
+    ]
+  },
+  {
+    "id": "heywanen_mal",
+    "title": "Ajalên Mal",
+    "icon": "assets/icons/homeAndSurroundings/icon_pets_farm_animals.png",
+    "narReward": 5,
+    "words": [
+      {"id": "cat", "kurdish": "Pisîk", "image": "assets/icons/petfarmanimals/cat.png", "audio": "assets/audio/animals/cat.mp3"},
+      {"id": "dog", "kurdish": "Kûçik", "image": "assets/icons/petfarmanimals/dog.png", "audio": ""},
+      {"id": "bird", "kurdish": "Çûk", "image": "assets/icons/petfarmanimals/bird.png", "audio": ""},
+      {"id": "chicken", "kurdish": "Mirîşk", "image": "assets/icons/petfarmanimals/chicken.png", "audio": ""},
+      {"id": "cow", "kurdish": "Çêlek", "image": "assets/icons/petfarmanimals/cow.png", "audio": ""},
+      {"id": "sheep", "kurdish": "Mî", "image": "assets/icons/petfarmanimals/sheep.png", "audio": ""},
+      {"id": "horse", "kurdish": "Hesp", "image": "assets/icons/petfarmanimals/horse.png", "audio": ""},
+      {"id": "rooster", "kurdish": "Dîk", "image": "assets/icons/petfarmanimals/rooster.png", "audio": ""},
+      {"id": "fish", "kurdish": "Masî", "image": "assets/icons/petfarmanimals/fish.png", "audio": ""},
+      {"id": "donkey", "kurdish": "Ker", "image": "assets/icons/petfarmanimals/donkey.png", "audio": ""}
+    ]
+  },
+
+  {
+    "id": "laş",
+    "title": "Laş",
+    "icon": "assets/icons/aboutMeAndLife/icon_body_part.png",
+    "narReward": 5,
+    "words": [
+      {"id": "head", "kurdish": "Ser", "image": "assets/icons/bodyParts/head.png", "audio": ""},
+      {"id": "eye", "kurdish": "Çav", "image": "assets/icons/bodyParts/eye.png", "audio": ""},
+      {"id": "ear", "kurdish": "Guh", "image": "assets/icons/bodyParts/ear.png", "audio": ""},
+      {"id": "nose", "kurdish": "Poz", "image": "assets/icons/bodyParts/nose.png", "audio": ""},
+      {"id": "mouth", "kurdish": "Dev", "image": "assets/icons/bodyParts/mouth.png", "audio": ""},
+      {"id": "hand", "kurdish": "Dest", "image": "assets/icons/bodyParts/hand.png", "audio": ""},
+      {"id": "foot", "kurdish": "Pê", "image": "assets/icons/bodyParts/foot.png", "audio": ""},
+      {"id": "hair", "kurdish": "Por", "image": "assets/icons/bodyParts/hair.png", "audio": ""}
+    ]
+  },
+  {
+    "id": "cilubarg",
+    "title": "Cil û Berg",
+    "icon": "assets/icons/aboutMeAndLife/icon_clothing.png",
+    "narReward": 5,
+    "words": [
+      {"id": "tshirt", "kurdish": "Tişort", "image": "assets/icons/clothing/tshirt.png", "audio": ""},
+      {"id": "pants", "kurdish": "Pantolon", "image": "assets/icons/clothing/pants.png", "audio": ""},
+      {"id": "shoes", "kurdish": "Pêlav", "image": "assets/icons/clothing/shoes.png", "audio": ""},
+      {"id": "hat", "kurdish": "Kumik", "image": "assets/icons/clothing/hat.png", "audio": ""},
+      {"id": "coat", "kurdish": "Çakêt", "image": "assets/icons/clothing/coat.png", "audio": ""},
+      {"id": "dress", "kurdish": "Fistan", "image": "assets/icons/clothing/dress.png", "audio": ""},
+      {"id": "scarf", "kurdish": "Şal", "image": "assets/icons/clothing/scarf.png", "audio": ""},
+      {"id": "gloves", "kurdish": "Destmal", "image": "assets/icons/clothing/gloves.png", "audio": ""}
+    ]
+  },
+  {
+    "id": "xwarin",
+    "title": "Xwarin û Vexwarin",
+    "icon": "assets/icons/homeAndSurroundings/icon_food_drinks.png",
+    "narReward": 5,
+    "words": [
+      {"id": "bread", "kurdish": "Nan", "image": "assets/icons/fooddrinks/bread.png", "audio": ""},
+      {"id": "water", "kurdish": "Av", "image": "assets/icons/fooddrinks/water.png", "audio": ""},
+      {"id": "milk", "kurdish": "Şîr", "image": "assets/icons/fooddrinks/milk.png", "audio": ""},
+      {"id": "egg", "kurdish": "Hêk", "image": "assets/icons/fooddrinks/egg.png", "audio": ""},
+      {"id": "cheese", "kurdish": "Penêr", "image": "assets/icons/fooddrinks/cheese.png", "audio": ""},
+      {"id": "tea", "kurdish": "Çay", "image": "assets/icons/fooddrinks/tea.png", "audio": ""},
+      {"id": "soup", "kurdish": "Şorbe", "image": "assets/icons/fooddrinks/soup.png", "audio": ""},
+      {"id": "rice", "kurdish": "Birinc", "image": "assets/icons/fooddrinks/rice.png", "audio": ""},
+      {"id": "meat", "kurdish": "Goşt", "image": "assets/icons/fooddrinks/meat.png", "audio": ""},
+      {"id": "yogurt", "kurdish": "Mast", "image": "assets/icons/fooddrinks/yogurt.png", "audio": ""}
+    ]
+  },
+  {
+    "id": "mal",
+    "title": "Mal û Kelûpel",
+    "icon": "assets/icons/homeAndSurroundings/icon_house_furniture.png",
+    "narReward": 5,
+    "words": [
+      {"id": "house", "kurdish": "Mal", "image": "assets/icons/houseandfurniture/house.png", "audio": ""},
+      {"id": "door", "kurdish": "Derî", "image": "assets/icons/houseandfurniture/door.png", "audio": ""},
+      {"id": "window", "kurdish": "Pencere", "image": "assets/icons/houseandfurniture/window.png", "audio": ""},
+      {"id": "table", "kurdish": "Mase", "image": "assets/icons/houseandfurniture/table.png", "audio": ""},
+      {"id": "chair", "kurdish": "Kursî", "image": "assets/icons/houseandfurniture/chair.png", "audio": ""},
+      {"id": "bed", "kurdish": "Nivîn", "image": "assets/icons/houseandfurniture/bed.png", "audio": ""},
+      {"id": "kitchen", "kurdish": "Metbex", "image": "assets/icons/houseandfurniture/kitchen.png", "audio": ""},
+      {"id": "bathroom", "kurdish": "Serşok", "image": "assets/icons/houseandfurniture/bathroom.png", "audio": ""},
+      {"id": "room", "kurdish": "Ode", "image": "assets/icons/houseandfurniture/room.png", "audio": ""},
+      {"id": "sofa", "kurdish": "Qenepe", "image": "assets/icons/houseandfurniture/sofa.png", "audio": ""}
+    ]
+  },
+  {
+    "id": "sebze",
+    "title": "Sebze",
+    "icon": "assets/icons/homeAndSurroundings/icon_vegetable.png",
+    "narReward": 5,
+    "words": [
+      {"id": "tomato", "kurdish": "Firingî", "image": "assets/icons/vegetables/tomato.png", "audio": ""},
+      {"id": "potato", "kurdish": "Kartol", "image": "assets/icons/vegetables/potato.png", "audio": ""},
+      {"id": "carrot", "kurdish": "Gêzer", "image": "assets/icons/vegetables/carrot.png", "audio": ""},
+      {"id": "onion", "kurdish": "Pîvaz", "image": "assets/icons/vegetables/onion.png", "audio": ""},
+      {"id": "pepper", "kurdish": "Bîber", "image": "assets/icons/vegetables/pepper.png", "audio": ""},
+      {"id": "cucumber", "kurdish": "Xiyar", "image": "assets/icons/vegetables/cucumber.png", "audio": ""},
+      {"id": "eggplant", "kurdish": "Bacan", "image": "assets/icons/vegetables/eggplant.png", "audio": ""},
+      {"id": "garlic", "kurdish": "Sîr", "image": "assets/icons/vegetables/garlic.png", "audio": ""}
+    ]
+  },
+  {
+    "id": "rojane",
+    "title": "Rojane",
+    "icon": "assets/icons/aboutMeAndLife/icon_daily_routines.png",
+    "narReward": 5,
+    "words": [
+      {"id": "wakeup", "kurdish": "Rabûn", "image": "assets/icons/dailyRoutine/waking_up.png", "audio": ""},
+      {"id": "brush_teeth", "kurdish": "Diranan Şûştin", "image": "assets/icons/dailyRoutine/brush_teeth.png", "audio": ""},
+      {"id": "wash_face", "kurdish": "Rû Şûştin", "image": "assets/icons/dailyRoutine/wash_face.png", "audio": ""},
+      {"id": "eat_breakfast", "kurdish": "Taştê Xwarin", "image": "assets/icons/dailyRoutine/eat_breakfast.png", "audio": ""},
+      {"id": "go_school", "kurdish": "Çûna Dibistanê", "image": "assets/icons/dailyRoutine/go_to_school.png", "audio": ""},
+      {"id": "play", "kurdish": "Lîstin", "image": "assets/icons/dailyRoutine/play.png", "audio": ""},
+      {"id": "eat_dinner", "kurdish": "Şîv Xwarin", "image": "assets/icons/dailyRoutine/eat_dinner.png", "audio": ""},
+      {"id": "go_bed", "kurdish": "Razîn", "image": "assets/icons/dailyRoutine/go_to_bed.png", "audio": ""}
+    ]
+  },
+
+  {
+    "id": "xweza",
+    "title": "Xweza",
+    "icon": "assets/icons/natureAndEnvironment/icon_nature.png",
+    "narReward": 5,
+    "words": [
+      {"id": "tree", "kurdish": "Dar", "image": "assets/icons/nature/tree.png", "audio": ""},
+      {"id": "flower", "kurdish": "Gul", "image": "assets/icons/nature/flower.png", "audio": ""},
+      {"id": "mountain", "kurdish": "Çiya", "image": "assets/icons/nature/mountain.png", "audio": ""},
+      {"id": "river", "kurdish": "Çem", "image": "assets/icons/nature/river.png", "audio": ""},
+      {"id": "sea", "kurdish": "Derya", "image": "assets/icons/nature/sea.png", "audio": ""},
+      {"id": "stone", "kurdish": "Kevir", "image": "assets/icons/nature/stone.png", "audio": ""},
+      {"id": "leaf", "kurdish": "Pel", "image": "assets/icons/nature/leaf.png", "audio": ""}
+    ]
+  },
+  {
+    "id": "hewa",
+    "title": "Hewa",
+    "icon": "assets/icons/natureAndEnvironment/icon_weather.png",
+    "narReward": 5,
+    "words": [
+      {"id": "sun", "kurdish": "Roj", "image": "assets/icons/weather/sun.png", "audio": ""},
+      {"id": "rain", "kurdish": "Baran", "image": "assets/icons/weather/rain.png", "audio": ""},
+      {"id": "snow", "kurdish": "Berf", "image": "assets/icons/weather/snow.png", "audio": ""},
+      {"id": "cloud", "kurdish": "Ewr", "image": "assets/icons/weather/cloud.png", "audio": ""},
+      {"id": "wind", "kurdish": "Ba", "image": "assets/icons/weather/wind.png", "audio": ""},
+      {"id": "storm", "kurdish": "Bahov", "image": "assets/icons/weather/storm.png", "audio": ""},
+      {"id": "rainbow", "kurdish": "Keskesor", "image": "assets/icons/weather/rainbow.png", "audio": ""}
+    ]
+  },
+  {
+    "id": "heywanen_kovî",
+    "title": "Ajalên Kovî",
+    "icon": "assets/icons/natureAndEnvironment/icon_wild_anilmals.png",
+    "narReward": 5,
+    "words": [
+      {"id": "lion", "kurdish": "Şêr", "image": "assets/icons/wildanimals/lion.png", "audio": "assets/audio/animals/lion.mp3"},
+      {"id": "bear", "kurdish": "Hirç", "image": "assets/icons/wildanimals/bear.png", "audio": ""},
+      {"id": "wolf", "kurdish": "Gur", "image": "assets/icons/wildanimals/wolf.png", "audio": ""},
+      {"id": "fox", "kurdish": "Rovî", "image": "assets/icons/wildanimals/fox.png", "audio": ""},
+      {"id": "elephant", "kurdish": "Fîl", "image": "assets/icons/wildanimals/elephant.png", "audio": ""},
+      {"id": "monkey", "kurdish": "Meymûn", "image": "assets/icons/wildanimals/monkey.png", "audio": ""},
+      {"id": "snake", "kurdish": "Mar", "image": "assets/icons/wildanimals/snake.png", "audio": ""}
+    ]
+  },
+  {
+    "id": "kêzik",
+    "title": "Kêzik",
+    "icon": "assets/icons/natureAndEnvironment/icon_insects_bugs.png",
+    "narReward": 5,
+    "words": [
+      {"id": "butterfly", "kurdish": "Pelatînk", "image": "assets/icons/insects/butterfly.png", "audio": ""},
+      {"id": "bee", "kurdish": "Hing", "image": "assets/icons/insects/bee.png", "audio": ""},
+      {"id": "ant", "kurdish": "Mûrî", "image": "assets/icons/insects/ant.png", "audio": ""},
+      {"id": "ladybug", "kurdish": "Birindbûk", "image": "assets/icons/insects/ladybug.png", "audio": ""},
+      {"id": "spider", "kurdish": "Tevnpîrk", "image": "assets/icons/insects/spider.png", "audio": ""},
+      {"id": "mosquito", "kurdish": "Mêş", "image": "assets/icons/insects/mosquito.png", "audio": ""}
+    ]
+  },
+  {
+    "id": "veguhestin",
+    "title": "Veguhestin",
+    "icon": "assets/icons/goingOut/icon_transportation.png",
+    "narReward": 5,
+    "words": [
+      {"id": "car", "kurdish": "Tirimbêl", "image": "assets/icons/transportation/car.png", "audio": ""},
+      {"id": "bus", "kurdish": "Otobus", "image": "assets/icons/transportation/bus.png", "audio": ""},
+      {"id": "bicycle", "kurdish": "Duçerxe", "image": "assets/icons/transportation/bicycle.png", "audio": ""},
+      {"id": "airplane", "kurdish": "Firoke", "image": "assets/icons/transportation/airplane.png", "audio": ""},
+      {"id": "train", "kurdish": "Trên", "image": "assets/icons/transportation/train.png", "audio": ""},
+      {"id": "boat", "kurdish": "Keştî", "image": "assets/icons/transportation/boat.png", "audio": ""}
+    ]
+  },
+  {
+    "id": "cih",
+    "title": "Cih û War",
+    "icon": "assets/icons/goingOut/icon_place_town.png",
+    "narReward": 5,
+    "words": [
+      {"id": "school", "kurdish": "Dibistan", "image": "assets/icons/places/school.png", "audio": ""},
+      {"id": "hospital", "kurdish": "Nexweşxane", "image": "assets/icons/places/hospital.png", "audio": ""},
+      {"id": "park", "kurdish": "Park", "image": "assets/icons/places/park.png", "audio": ""},
+      {"id": "market", "kurdish": "Bazar", "image": "assets/icons/places/market.png", "audio": ""},
+      {"id": "mosque", "kurdish": "Mizgeft", "image": "assets/icons/places/mosque.png", "audio": ""},
+      {"id": "restaurant", "kurdish": "Xwaringeh", "image": "assets/icons/places/restaurant.png", "audio": ""}
+    ]
+  },
+
+  {
+    "id": "dibistan",
+    "title": "Dibistan",
+    "icon": "assets/icons/homeAndSurroundings/icon_school_supplies.png",
+    "narReward": 5,
+    "words": [
+      {"id": "pencil", "kurdish": "Qelem", "image": "assets/icons/schoolsupplies/pencil.png", "audio": ""},
+      {"id": "book", "kurdish": "Pirtûk", "image": "assets/icons/schoolsupplies/book.png", "audio": ""},
+      {"id": "notebook", "kurdish": "Defter", "image": "assets/icons/schoolsupplies/notebook.png", "audio": ""},
+      {"id": "eraser", "kurdish": "Jêbir", "image": "assets/icons/schoolsupplies/eraser.png", "audio": ""},
+      {"id": "ruler", "kurdish": "Xêzkêş", "image": "assets/icons/schoolsupplies/ruler.png", "audio": ""},
+      {"id": "scissors", "kurdish": "Meqes", "image": "assets/icons/schoolsupplies/scissors.png", "audio": ""},
+      {"id": "backpack", "kurdish": "Çente", "image": "assets/icons/schoolsupplies/backpack.png", "audio": ""},
+      {"id": "glue", "kurdish": "Zeliqok", "image": "assets/icons/schoolsupplies/glue.png", "audio": ""}
+    ]
+  },
+  {
+    "id": "polê",
+    "title": "Fermana Polê",
+    "icon": "assets/icons/timeAndActivities/icon_classroom_commands.png",
+    "narReward": 5,
+    "words": [
+      {"id": "listen", "kurdish": "Guhdarî Bike", "image": "assets/icons/classroomcommands/listen.png", "audio": ""},
+      {"id": "look", "kurdish": "Binêre", "image": "assets/icons/classroomcommands/look.png", "audio": ""},
+      {"id": "raise_hand", "kurdish": "Destê Xwe Bilind Bike", "image": "assets/icons/classroomcommands/raise_hand.png", "audio": ""},
+      {"id": "be_quiet", "kurdish": "Bêdeng Be", "image": "assets/icons/classroomcommands/be_quiet.png", "audio": ""},
+      {"id": "open_book", "kurdish": "Pirtûkê Veke", "image": "assets/icons/classroomcommands/open_book.png", "audio": ""},
+      {"id": "close_book", "kurdish": "Pirtûkê Bigire", "image": "assets/icons/classroomcommands/close_book.png", "audio": ""}
+    ]
+  },
+  {
+    "id": "lêker",
+    "title": "Lêker",
+    "icon": "assets/icons/timeAndActivities/icon_action_verbs.png",
+    "narReward": 5,
+    "words": [
+      {"id": "eat", "kurdish": "Xwarin", "image": "assets/icons/actionverbs/eat.png", "audio": ""},
+      {"id": "drink", "kurdish": "Vexwarin", "image": "assets/icons/actionverbs/drink.png", "audio": ""},
+      {"id": "run", "kurdish": "Bezîn", "image": "assets/icons/actionverbs/run.png", "audio": ""},
+      {"id": "walk", "kurdish": "Meşîn", "image": "assets/icons/actionverbs/walk.png", "audio": ""},
+      {"id": "sleep", "kurdish": "Razîn", "image": "assets/icons/actionverbs/sleep.png", "audio": ""},
+      {"id": "read", "kurdish": "Xwendin", "image": "assets/icons/actionverbs/read.png", "audio": ""},
+      {"id": "write", "kurdish": "Nivîsandin", "image": "assets/icons/actionverbs/write.png", "audio": ""},
+      {"id": "sit", "kurdish": "Rûniştin", "image": "assets/icons/actionverbs/sit.png", "audio": ""},
+      {"id": "stand", "kurdish": "Rawestîn", "image": "assets/icons/actionverbs/stand.png", "audio": ""}
+    ]
+  },
+  {
+    "id": "hobî",
+    "title": "Hobî",
+    "icon": "assets/icons/timeAndActivities/icon_hobbies.png",
+    "narReward": 5,
+    "words": [
+      {"id": "drawing", "kurdish": "Xêzkirin", "image": "assets/icons/hobbies/drawing.png", "audio": ""},
+      {"id": "reading", "kurdish": "Xwendin", "image": "assets/icons/hobbies/reading.png", "audio": ""},
+      {"id": "singing", "kurdish": "Strangotin", "image": "assets/icons/hobbies/singing.png", "audio": ""},
+      {"id": "dancing", "kurdish": "Dîlan", "image": "assets/icons/hobbies/dancing.png", "audio": ""},
+      {"id": "music", "kurdish": "Muzîk", "image": "assets/icons/hobbies/music.png", "audio": ""},
+      {"id": "gardening", "kurdish": "Baxçevanî", "image": "assets/icons/hobbies/gardening.png", "audio": ""}
+    ]
+  },
+  {
+    "id": "werzîş",
+    "title": "Werzîş",
+    "icon": "assets/icons/timeAndActivities/icon_sports.png",
+    "narReward": 5,
+    "words": [
+      {"id": "football", "kurdish": "Futbol", "image": "assets/icons/sports/football.png", "audio": ""},
+      {"id": "basketball", "kurdish": "Basketbol", "image": "assets/icons/sports/basketball.png", "audio": ""},
+      {"id": "swimming", "kurdish": "Avjenî", "image": "assets/icons/sports/swimming.png", "audio": ""},
+      {"id": "running", "kurdish": "Bezîn", "image": "assets/icons/sports/running.png", "audio": ""},
+      {"id": "volleyball", "kurdish": "Voleybol", "image": "assets/icons/sports/volleyball.png", "audio": ""}
+    ]
+  },
+  {
+    "id": "dem",
+    "title": "Dem",
+    "icon": "assets/icons/timeAndActivities/icon_time.png",
+    "narReward": 5,
+    "words": [
+      {"id": "morning", "kurdish": "Sibeh", "image": "assets/icons/time/morning.png", "audio": ""},
+      {"id": "noon", "kurdish": "Nîvro", "image": "assets/icons/time/noon.png", "audio": ""},
+      {"id": "evening", "kurdish": "Êvar", "image": "assets/icons/time/evening.png", "audio": ""},
+      {"id": "night", "kurdish": "Şev", "image": "assets/icons/time/night.png", "audio": ""},
+      {"id": "clock", "kurdish": "Saet", "image": "assets/icons/time/clock.png", "audio": ""},
+      {"id": "hour", "kurdish": "Saet", "image": "assets/icons/time/hour.png", "audio": ""}
+    ]
+  },
+
+  {
+    "id": "kar",
+    "title": "Kar û Pîşe",
+    "icon": "assets/icons/goingOut/icon_jobs_professions.png",
+    "narReward": 5,
+    "words": [
+      {"id": "teacher", "kurdish": "Mamoste", "image": "assets/icons/jobs/teacher.png", "audio": ""},
+      {"id": "doctor", "kurdish": "Bijîşk", "image": "assets/icons/jobs/doctor.png", "audio": ""},
+      {"id": "farmer", "kurdish": "Cotkar", "image": "assets/icons/jobs/farmer.png", "audio": ""},
+      {"id": "firefighter", "kurdish": "Agirkuj", "image": "assets/icons/jobs/firefighter.png", "audio": ""},
+      {"id": "police", "kurdish": "Polês", "image": "assets/icons/jobs/police.png", "audio": ""},
+      {"id": "cook", "kurdish": "Aşpêj", "image": "assets/icons/jobs/cook.png", "audio": ""}
+    ]
+  },
+  {
+    "id": "avahî",
+    "title": "Avahiyên Giştî",
+    "icon": "assets/icons/goingOut/icon_public_buildings.png",
+    "narReward": 5,
+    "words": [
+      {"id": "library", "kurdish": "Pirtûkxane", "image": "assets/icons/publicbuildings/library.png", "audio": ""},
+      {"id": "pharmacy", "kurdish": "Dermanxane", "image": "assets/icons/publicbuildings/pharmacy.png", "audio": ""},
+      {"id": "bank", "kurdish": "Banka", "image": "assets/icons/publicbuildings/bank.png", "audio": ""},
+      {"id": "post_office", "kurdish": "Postexane", "image": "assets/icons/publicbuildings/post_office.png", "audio": ""}
+    ]
+  },
+  {
+    "id": "bazarî",
+    "title": "Bazarî",
+    "icon": "assets/icons/goingOut/icon_shopping_words.png",
+    "narReward": 5,
+    "words": [
+      {"id": "money", "kurdish": "Pere", "image": "assets/icons/shopping/money.png", "audio": ""},
+      {"id": "buy", "kurdish": "Kirîn", "image": "assets/icons/shopping/buy.png", "audio": ""},
+      {"id": "sell", "kurdish": "Firotin", "image": "assets/icons/shopping/sell.png", "audio": ""},
+      {"id": "store", "kurdish": "Dikan", "image": "assets/icons/shopping/store.png", "audio": ""},
+      {"id": "price", "kurdish": "Biha", "image": "assets/icons/shopping/price.png", "audio": ""},
+      {"id": "shopping_bag", "kurdish": "Tûrikê Bazarî", "image": "assets/icons/shopping/shopping_bag.png", "audio": ""},
+      {"id": "cheap", "kurdish": "Erzan", "image": "assets/icons/shopping/cheap.png", "audio": ""},
+      {"id": "expensive", "kurdish": "Biha", "image": "assets/icons/shopping/expensive.png", "audio": ""}
+    ]
+  },
+  {
+    "id": "saxlem",
+    "title": "Saxlemî",
+    "icon": "assets/icons/cultureAndAdvanced/icon_health_body.png",
+    "narReward": 5,
+    "words": [
+      {"id": "healthy", "kurdish": "Saxlem", "image": "assets/icons/healthBody/healty.png", "audio": ""},
+      {"id": "sick", "kurdish": "Nexweş", "image": "assets/icons/healthBody/sick.png", "audio": ""},
+      {"id": "medicine", "kurdish": "Derman", "image": "assets/icons/healthBody/medicine.png", "audio": ""},
+      {"id": "stomach", "kurdish": "Zik", "image": "assets/icons/bodyParts/stomach.png", "audio": ""},
+      {"id": "tooth", "kurdish": "Diran", "image": "assets/icons/bodyParts/tooth.png", "audio": ""},
+      {"id": "back", "kurdish": "Piştî", "image": "assets/icons/bodyParts/back.png", "audio": ""}
+    ]
+  },
+  {
+    "id": "nexşe",
+    "title": "Rêwîtî",
+    "icon": "assets/icons/goingOut/icon_maps_directions.png",
+    "narReward": 5,
+    "words": [
+      {"id": "left", "kurdish": "Çep", "image": "assets/icons/mapdirections/left.png", "audio": ""},
+      {"id": "right", "kurdish": "Rast", "image": "assets/icons/mapdirections/right.png", "audio": ""},
+      {"id": "straight", "kurdish": "Rasterast", "image": "assets/icons/mapdirections/straight.png", "audio": ""},
+      {"id": "near", "kurdish": "Nêzîk", "image": "assets/icons/mapdirections/near.png", "audio": ""},
+      {"id": "far", "kurdish": "Dûr", "image": "assets/icons/mapdirections/far.png", "audio": ""},
+      {"id": "map", "kurdish": "Nexşe", "image": "assets/icons/mapdirections/map.png", "audio": ""},
+      {"id": "where", "kurdish": "Li Ku?", "image": "assets/icons/mapdirections/where.png", "audio": ""}
+    ]
+  },
+  {
+    "id": "teknolojî",
+    "title": "Teknolojî",
+    "icon": "assets/icons/cultureAndAdvanced/icon_technology_gadgets.png",
+    "narReward": 5,
+    "words": [
+      {"id": "phone", "kurdish": "Telefon", "image": "assets/icons/technologyGadget/phone.png", "audio": ""},
+      {"id": "computer", "kurdish": "Komputer", "image": "assets/icons/technologyGadget/computer.png", "audio": ""},
+      {"id": "tablet", "kurdish": "Tablet", "image": "assets/icons/technologyGadget/tablet.png", "audio": ""},
+      {"id": "tv", "kurdish": "Televîzyon", "image": "assets/icons/technologyGadget/tv.png", "audio": ""},
+      {"id": "headphone", "kurdish": "Guhgirk", "image": "assets/icons/technologyGadget/headphone.png", "audio": ""},
+      {"id": "internet", "kurdish": "Înternet", "image": "assets/icons/technologyGadget/internet.png", "audio": ""}
+    ]
+  },
+
+  {
+    "id": "silav",
+    "title": "Silav û Nasîn",
+    "icon": "assets/icons/aboutMeAndLife/icon_greetings_introductions.png",
+    "narReward": 5,
+    "words": [
+      {"id": "hello", "kurdish": "Silav", "image": "assets/icons/aboutMeAndLife/icon_greetings_introductions.png", "audio": ""},
+      {"id": "goodbye", "kurdish": "Oxir Be", "image": "assets/icons/aboutMeAndLife/icon_greetings_introductions.png", "audio": ""},
+      {"id": "thanks", "kurdish": "Spas", "image": "assets/icons/aboutMeAndLife/icon_greetings_introductions.png", "audio": ""},
+      {"id": "please", "kurdish": "Ji Kerema Xwe", "image": "assets/icons/aboutMeAndLife/icon_greetings_introductions.png", "audio": ""},
+      {"id": "yes", "kurdish": "Erê", "image": "assets/icons/aboutMeAndLife/icon_greetings_introductions.png", "audio": ""},
+      {"id": "no", "kurdish": "Na", "image": "assets/icons/aboutMeAndLife/icon_greetings_introductions.png", "audio": ""}
+    ]
+  },
+  {
+    "id": "hest",
+    "title": "Hest",
+    "icon": "assets/icons/aboutMeAndLife/icon_emotions_feelings.png",
+    "narReward": 5,
+    "words": [
+      {"id": "happy", "kurdish": "Bextewar", "image": "assets/icons/aboutMeAndLife/icon_emotions_feelings.png", "audio": ""},
+      {"id": "sad", "kurdish": "Xemgîn", "image": "assets/icons/aboutMeAndLife/icon_emotions_feelings.png", "audio": ""},
+      {"id": "angry", "kurdish": "Hêrs", "image": "assets/icons/aboutMeAndLife/icon_emotions_feelings.png", "audio": ""},
+      {"id": "scared", "kurdish": "Tirsîn", "image": "assets/icons/aboutMeAndLife/icon_emotions_feelings.png", "audio": ""},
+      {"id": "surprised", "kurdish": "Şaşmayî", "image": "assets/icons/aboutMeAndLife/icon_emotions_feelings.png", "audio": ""},
+      {"id": "tired", "kurdish": "Westiyayî", "image": "assets/icons/aboutMeAndLife/icon_emotions_feelings.png", "audio": ""}
+    ]
+  },
+  {
+    "id": "cînavk",
+    "title": "Cînavk",
+    "icon": "assets/icons/aboutMeAndLife/icon_pronouns.png",
+    "narReward": 5,
+    "words": [
+      {"id": "i", "kurdish": "Ez", "image": "assets/icons/aboutMeAndLife/icon_pronouns.png", "audio": ""},
+      {"id": "you", "kurdish": "Tu", "image": "assets/icons/aboutMeAndLife/icon_pronouns.png", "audio": ""},
+      {"id": "he", "kurdish": "Ew (mê)", "image": "assets/icons/aboutMeAndLife/icon_pronouns.png", "audio": ""},
+      {"id": "she", "kurdish": "Ew (nêr)", "image": "assets/icons/aboutMeAndLife/icon_pronouns.png", "audio": ""},
+      {"id": "we", "kurdish": "Em", "image": "assets/icons/aboutMeAndLife/icon_pronouns.png", "audio": ""},
+      {"id": "they", "kurdish": "Ew (pirjimar)", "image": "assets/icons/aboutMeAndLife/icon_pronouns.png", "audio": ""}
+    ]
+  },
+  {
+    "id": "çanda_kurdî",
+    "title": "Çanda Kurdî",
+    "icon": "assets/icons/cultureAndAdvanced/icon_kurdish_culture.png",
+    "narReward": 5,
+    "words": [
+      {"id": "newroz", "kurdish": "Newroz", "image": "assets/icons/cultureAndAdvanced/icon_festivals_holidays.png", "audio": ""},
+      {"id": "dilan", "kurdish": "Dîlan", "image": "assets/icons/hobbies/dancing.png", "audio": ""},
+      {"id": "stran", "kurdish": "Stran", "image": "assets/icons/hobbies/singing.png", "audio": ""},
+      {"id": "pomegranate_symbol", "kurdish": "Hinar", "image": "assets/icons/fruits/pomegranate.png", "audio": ""},
+      {"id": "mountain_culture", "kurdish": "Çiya", "image": "assets/icons/nature/mountain.png", "audio": ""},
+      {"id": "tea_culture", "kurdish": "Çay", "image": "assets/icons/fooddrinks/tea.png", "audio": ""}
+    ]
+  },
+  {
+    "id": "dijber",
+    "title": "Dijber",
+    "icon": "assets/icons/languageAndGrammar/icon_opposites.png",
+    "narReward": 5,
+    "words": [
+      {"id": "big_small", "kurdish": "Mezin - Biçûk", "image": "assets/icons/wildanimals/elephant.png", "audio": ""},
+      {"id": "hot_cold", "kurdish": "Germ - Sar", "image": "assets/icons/weather/sun.png", "audio": ""},
+      {"id": "fast_slow", "kurdish": "Lez - Hêdî", "image": "assets/icons/transportation/car.png", "audio": ""},
+      {"id": "up_down", "kurdish": "Jor - Jêr", "image": "assets/icons/nature/mountain.png", "audio": ""},
+      {"id": "open_close", "kurdish": "Vekirî - Girtî", "image": "assets/icons/houseandfurniture/door.png", "audio": ""},
+      {"id": "happy_sad", "kurdish": "Şa - Xemgîn", "image": "assets/icons/aboutMeAndLife/icon_emotions_feelings.png", "audio": ""}
+    ]
+  }
+]
